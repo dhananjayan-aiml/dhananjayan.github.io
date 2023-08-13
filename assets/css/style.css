@@ -3,7 +3,10 @@
   src: url(../fonts/Agustina.woff);
 }
 
-
+.header{
+  color: #1e90ff;
+  font: weight 10px;;
+}
 /*CSS variable declaration for light/dark mode*/
 
 html[data-theme="light"] {
